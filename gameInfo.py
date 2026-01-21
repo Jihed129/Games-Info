@@ -1,7 +1,7 @@
 import requests as rq
 
 baseURL = "https://api.rawg.io/api/"
-APIkey = "38040185dd0a4473988f8265ee72a189"
+APIkey = "use your api key here"
 
 def get_game_info(gameName: str):
     # search for a game and return the first result
@@ -63,6 +63,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 
