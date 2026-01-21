@@ -1,2 +1,2 @@
 # Games-Info
-[user rawg api to get informations about a game](gameinfo.py)
+[user rawg api to get informations about a game](gameInfo.py)
